@@ -1,0 +1,12 @@
+footer {
+    padding: 0;
+    bottom: 0;
+    height: 30px;
+    width: 30px;
+    opacity: 60%;
+    
+}
+body{
+    background-image: url("./Peach.jpeg");
+    background-repeat: no-repeat;
+}
